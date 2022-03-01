@@ -1,0 +1,8 @@
+{
+    "name": "lambda_layer",
+    "type": "module",
+    "version": "1.0.0",
+    "dependencies": {
+        "@aws-sdk/url-parser": "^3.53.0"
+    }
+}
